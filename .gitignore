@@ -2,7 +2,13 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/Media
-/obj/Debug/3DPropertiesAPI
 /Properties
 /3DPropertiesAPI.csproj
+/Media
+bin
+obj
+/3DPropertiesAPI.csproj.user
+*.exe
+*.pdb
+*.manifest
+*.cache
